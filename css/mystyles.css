@@ -1,0 +1,33 @@
+body{
+	font-size: 14px;
+	font-family: 'Muli', Arial, sans-serif;
+}
+@media print {
+	body{font-family: Arial,sans-serif;}
+}
+.overview div h3{
+	color: #dbe5f1;
+	background-color: #365f91;
+	text-align: center;
+	padding: 5px;
+	margin: 0;
+}
+.work-exp-header h3, .final div h4{
+	color: #dbe5f1;
+	background-color: #365f91;
+	padding: 5px;
+	margin: 0;
+}
+.work-exp div h4.workplace{
+	color: #365f91;
+}
+span.edu-date{
+	font-style: italic;
+	color: #365f91;
+	width :100%;
+	display: block;
+	text-align: right;
+}
+.final div h4{
+
+}
